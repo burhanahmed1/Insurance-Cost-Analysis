@@ -62,15 +62,15 @@ This project was developed as part of a machine learning study to apply regressi
 ## Getting Started
 To get started with this project, clone the repository and install the necessary dependencies:
 ```bash
-git clone https://github.com/burhanahmed1/LaptopPricing-MachineLearning-Analysis.git
-cd LaptopPricing-MachineLearning-Analysis
+git clone https://github.com/burhanahmed1/Insurance-Cost-Analysis.git
+cd Insurance-Cost-Analysis
 pip install -r requirements.txt
 ```
 
 ## Usage
 Open the Jupyter notebook:
 ```bash
-jupyter notebook LaptopPricing-ML.ipynb
+jupyter notebook Insurance-Cost-Analysis.ipynb
 ```
 
 ## Contributing
