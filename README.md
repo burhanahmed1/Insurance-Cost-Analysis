@@ -30,10 +30,10 @@ Data visualization techniques such as box plots and distribution plots were used
 <div align="center">
   
   The regression plot for `charges` with respect to `bmi`.
-  <img src="sc/reg_plot.png" alt="Regression Plot" width="800"/>
+  <img src="sc/reg_plot.png" alt="Regression Plot" width="700"/>
   
  The box plot for `charges` with respect to `smoker`.
-  <img src="sc/box_plot.png" alt="Box Plot" width="800"/>
+  <img src="sc/box_plot.png" alt="Box Plot" width="700"/>
 </div>
 
 
